@@ -1,0 +1,53 @@
+name: dropkart_app
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Basic
+  cupertino_icons: ^1.0.6
+  intl: ^0.19.0
+  url_launcher: ^6.2.10
+
+  # Firebase
+  firebase_core: ^2.29.0
+  firebase_auth: ^4.19.0
+  cloud_firestore: ^4.16.0
+  firebase_storage: ^11.7.0
+
+  # Images / Upload
+  image_picker: ^0.8.7+5
+  cached_network_image: ^3.2.4
+  uuid: ^4.4.0
+
+  # UI / UX helpers
+  google_fonts: ^4.0.3
+  carousel_slider: ^5.1.1
+  flutter_staggered_animations: ^1.0.0
+  shimmer: ^2.0.0
+
+  # State management (simple)
+  provider: ^6.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # If you add custom fonts or local assets, uncomment and list them here.
+  # assets:
+  #   - assets/images/
+  #
+  # fonts:
+  #   - family: Inter
+  #     fonts:
+  #       - asset: assets/fonts/Inter-Regular.ttf

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "168414805072",
+    "project_id": "dropkartdatabase",
+    "storage_bucket": "dropkartdatabase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168414805072:android:bf16c11a0fe1dae6352555",
+        "android_client_info": {
+          "package_name": "com.example.dropkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168414805072-na6m78fggbougkr60mk6mptr9c1gbf25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuR5O-G3IXv7YusAdDxxwkAh0KvTW-uvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168414805072-na6m78fggbougkr60mk6mptr9c1gbf25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168414805072:android:7ef2ab16e0d08dae352555",
+        "android_client_info": {
+          "package_name": "com.example.dropkart_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168414805072-na6m78fggbougkr60mk6mptr9c1gbf25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuR5O-G3IXv7YusAdDxxwkAh0KvTW-uvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168414805072-na6m78fggbougkr60mk6mptr9c1gbf25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
